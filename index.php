@@ -4,10 +4,23 @@
 		<meta charset="utf-8">
 		<title>My Portofolio | Ulrich GANGLO </title>
 		<meta name="description" content="UX/UI designer,Web developper portofolio" />
-		<meta property="og:type" content="website"/>
-		<meta property="og:title" content="My Portofolio | Ulrich GANGLO "/>
-		<meta property="og:url" content=""/>
-		<meta property="og:description" content="UX/UI designer,Web developper portofolio"/>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1" />
+        <meta property="fb:app_id" content="205920604956872" />
+        <meta property="og:url" content="https://ulrichganglo.herokuapp.com/" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="My Portofolio | Ulrich GANGLO " data-dynamic="true" />
+        <meta property="og:description" content="UX/UI designer,Web developper portofolio" data-dynamic="true" />
+        <meta property="og:image:width" content="256" data-dynamic="true">
+        <meta property="og:image:height" content="256" data-dynamic="true">
+        <meta property="og:locale" content="fr_FR" />
+        <meta property="og:site_name" content="My Portofolio | Ulrich GANGLO " />
+        <meta property="twitter:url" content="https://ulrichganglo.herokuapp.com/" />
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:title" content="My Portofolio | Ulrich GANGLO " />
+        <meta property="twitter:description" content="UX/UI designer,Web developper portofolio" />
+
+
+
 		<meta name="viewport" content="width=device-width initial-scale=1.0"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<script src="js/jquery-3.5.1.slim.min.js"></script>

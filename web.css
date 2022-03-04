@@ -1,0 +1,183 @@
+:root{
+--yellow:#f29e23;
+--black:#000000;
+--white:#ffffff;
+--gray:#e9ecef;
+}
+.bg-n{background-color:var(--black);}
+.text-yellow{
+	color:#f29e23;
+}
+.bg-g{background-color:var(--gray);}
+.btn-yellow{background-color:var(--yellow);
+color:var(--white);}
+.btn{border-radius:none;}
+.text-gray{color:var(--gray);}
+
+.ctn-a{
+	background-image: url("img/pen.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	width:100%;
+	height:90%;
+
+
+
+}
+
+.ctn-b{
+	width:240px;
+	height:240px;
+	border-radius:80%;
+	border:10px solid white;
+	margin-top: 10%;
+	background-image:url("img/ul.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	
+}
+ .nav-link{
+	font-size: 1.3rem;
+	margin-left:0.6rem;
+	margin-right:0.6rem;
+}
+.navbar-brand{
+	font-size: 1.3rem;
+	margin-left:0.6rem;
+	margin-right:0.6rem;
+}
+
+.nc{
+	display:flex;
+	justify-content:flex-end;
+}
+.des{
+	width:4.5%;
+	height:1.5%;
+	background-color:var(--yellow);
+	border:1px solid var(--yellow);
+}
+
+
+
+.dess{
+	width:4.5%;
+	height:1.5%;
+	background-color:var(--black);
+	border:1px solid var(--yellow);
+}
+
+
+.cl-p{
+	
+	column-count:3;
+}
+.ft-c{
+	height:11.5%;
+}
+.ic-c{
+	border-radius:50%;
+	font-size:30px;
+	margin-left:15px;
+	color:white;
+}
+
+.ic-c2{
+	border-radius:50%;
+	font-size:20px;
+	margin-left:10px;
+	color:black;
+}
+.ctn-c{
+	background-image:url("img/pen2.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	width:100%;
+	height:80%;
+}
+
+
+
+.ctn-mc{
+	background-image:url("img/pen4.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	width:100%;
+	height:100%;
+}
+
+.circle{
+	height:60px;
+	width:60px;
+	border-radius:30px;
+	background-color:var(--gray);
+}
+
+.border-yellow{
+	border-bottom:1px solid var(--yellow);
+	width:100%;
+}
+
+.fh
+{
+	height:150px !important;
+}
+
+@media screen and (max-width:768px)
+{
+	.des{
+		width:20%;
+	}
+	.cl-p{
+		column-count:1;
+	}
+
+	.ctn-a{
+	height:90%;}
+	.nav-link{
+	font-size: 1rem;
+	margin-left:0rem;
+	margin-right:0rem;}
+
+	.ctn-u h2,.ctn-u h3{
+		font-size: 1.5rem;
+	}
+	
+
+
+}
+
+@media screen and (min-width:769px)
+{
+	.if-c{
+		font-size:1.3rem;
+	}
+	.ctn-c{
+		height:45%;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						

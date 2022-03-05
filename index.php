@@ -258,12 +258,12 @@ scrollToTopButton.onclick = function(e) {
 
 												<div class="d-flex flex-md-row justify-content-around py-3">
 
-									 				<div class=" "><img class="img-fluid" src="img/html.png"/></div>
-													<div class=""><img class="img-fluid" src="img/css.png"/></div>
-													<div class=""><img class="img-fluid" src="img/js.png"/></div>
-													<div class=""><img class="img-fluid" src="img/php.png"/></div>
-													<div class=" "><img class="img-fluid" src="img/my.png"/></div>
-													<div class=""><img class="img-fluid" src="img/cplus.png"/></div>
+									 				<div class=" "><img class="img-fluid" src="img/html.png" alt="html"/></div>
+													<div class=""><img class="img-fluid" src="img/css.png" alt="css"/></div>
+													<div class=""><img class="img-fluid" src="img/js.png" alt="js"/></div>
+													<div class=""><img class="img-fluid" src="img/php.png" alt="php"/></div>
+													<div class=" "><img class="img-fluid" src="img/my.png" alt="html"/></div>
+													<div class=""><img class="img-fluid" src="img/cplus.png" alt="c++"/></div>
 													<div class=""><img class="img-fluid" src="img/j.png"/></div>
 													
 										
@@ -280,10 +280,10 @@ scrollToTopButton.onclick = function(e) {
 
 													<div class="d-flex flex-md-row  justify-content-around py-3">
 
-															<div class=" "><img class="img-fluid" src="img/xd.png"/></div>
-															<div class=""><img class="img-fluid" src="img/ail.png"/></div>
-															<div class=""><img class="img-fluid" src="img/ps.png"/></div>
-															<div class=""><img class="img-fluid" src="img/dw.png"/></div>
+															<div class=" "><img class="img-fluid" src="img/xd.png" alt="xd"/></div>
+															<div class=""><img class="img-fluid" src="img/ail.png" alt="ai"/></div>
+															<div class=""><img class="img-fluid" src="img/ps.png" alt="ps"/></div>
+															<div class=""><img class="img-fluid" src="img/dw.png" alt="dw"/></div>
 
 													</div>
 							</div>
@@ -296,9 +296,9 @@ scrollToTopButton.onclick = function(e) {
 
 												<div class="d-flex flex-md-row  justify-content-around">
 
-									 				<div class=" "><img class="img-fluid" src="img/wp.png"/></div>
-													<div class=""><img class="img-fluid" src="img/bt.png"/></div>
-													<div class=""><img class="img-fluid" src="img/lr.png"/></div>
+									 				<div class=" "><img class="img-fluid" src="img/wp.png" alt="wp"/></div>
+													<div class=""><img class="img-fluid" src="img/bt.png" alt="bootstrap"/></div>
+													<div class=""><img class="img-fluid" src="img/lr.png" alt="html"/></div>
 												
 												</div>
 							</div>
@@ -308,7 +308,7 @@ scrollToTopButton.onclick = function(e) {
 
 												<div class="d-flex flex-md-row justify-content-center ">
 
-									 				<div class="text-gray"><img class="img-fluid" src="img/chatbot.png"/></div>
+									 				<div class="text-gray"><img class="img-fluid" src="img/chatbot.png" alt="image"/></div>
 									 				
 													
 												
@@ -331,10 +331,10 @@ scrollToTopButton.onclick = function(e) {
 
 								<div class="d-flex flex-column flex-md-row justify-content-around">
 									
-									<div class="p-2 "><img class="img-fluid" src="img/ux.png"/></div>
-									<div class="p-2"><img class="img-fluid" src="img/menthe.png"/></div>
-									<div class="p-2"><img class="img-fluid" src="img/logo.png"/></div>
-									<div class="p-2"><img class="img-fluid" src="img/bao.png"/></div>
+									<div class="p-2 "><img class="img-fluid" src="img/ux.png" alt="image"/></div>
+									<div class="p-2"><img class="img-fluid" src="img/menthe.png" alt="image"/></div>
+									<div class="p-2"><img class="img-fluid" src="img/logo.png" alt="image" /></div>
+									<div class="p-2"><img class="img-fluid" src="img/bao.png" alt="image"/></div>
 
 									
 								</div>
@@ -345,10 +345,10 @@ scrollToTopButton.onclick = function(e) {
 
 								<div class="d-flex flex-column flex-md-row justify-content-around">
 									
-									<div class="p-2 "><img class="img-fluid" src="img/cv.png"/></div>
-									<div class="p-2"><img class="img-fluid" src="img/lk.png"/></div>
-									<div class="p-2"><img class="img-fluid" src="img/ts.png"/></div>
-									<div class="p-2"><img class="img-fluid" src="img/al.png"/></div>
+									<div class="p-2 "><img class="img-fluid" src="img/cv.png" alt="image"/></div>
+									<div class="p-2"><img class="img-fluid" src="img/lk.png" alt="image"/></div>
+									<div class="p-2"><img class="img-fluid" src="img/ts.png" alt="image"/></div>
+									<div class="p-2"><img class="img-fluid" src="img/al.png" alt="image"/></div>
 									
 									
 								</div>

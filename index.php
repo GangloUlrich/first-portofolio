@@ -19,7 +19,7 @@
         <meta property="twitter:title" content="My Portofolio | Ulrich GANGLO " />
         <meta property="twitter:description" content="UX/UI designer,Web developper portofolio" />
 
-
+		<meta name="google-site-verification" content="XnVp61nScvdiE71SLio_0zuKvMBz4Gk0nLPXud__TC0" />
 
 		<meta name="viewport" content="width=device-width initial-scale=1.0"/>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
